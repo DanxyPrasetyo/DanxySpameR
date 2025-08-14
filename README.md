@@ -1,5 +1,3 @@
-Ubah jadi bahasa Indonesia 
-
 # 🚀 DanxySpameR
 > The slickest, fastest & fully-independent spam tool for NGL anonymous messages.
 
@@ -25,7 +23,7 @@ Ubah jadi bahasa Indonesia
 pkg update -y && pkg install curl perl -y
 
 # 2. Clone & run
-git clone https://github.com/DanxyOfficial/DanxySpameR.git
+git clone https://github.com/DanxyPrasetyo/DanxySpameR.git
 cd DanxySpameR
 chmod +x DanxySpameR.sh
 ./DanxySpameR.sh
