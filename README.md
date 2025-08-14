@@ -1,6 +1,6 @@
 Ubah jadi bahasa Indonesia 
 
-# 🚀 DanxySpameR — Ultimate NGL Spammer for Termux
+# 🚀 DanxySpameR
 > The slickest, fastest & fully-independent spam tool for NGL anonymous messages.
 
 ---
