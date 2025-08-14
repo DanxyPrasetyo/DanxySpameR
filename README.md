@@ -1,3 +1,7 @@
+Welcome
+--------|
+![](https://media.tenor.com/iVCiM9W7cvYAAAAd/welcome.gif)
+
 # 🚀 DanxySpameR
 > The slickest, fastest & fully-independent spam tool for NGL anonymous messages.
 
