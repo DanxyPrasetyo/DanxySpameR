@@ -6,7 +6,7 @@ Ubah jadi bahasa Indonesia
 ---
 
 ## 🎬 Demo & Tutorial  
-[![Watch the video](https://img.shields.io/badge/YouTube-Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@DanxyOfficial)
+[![Watch the video](https://img.shields.io/badge/YouTube-DanxyBot-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@DanxyOfficial)
 
 ---
 
